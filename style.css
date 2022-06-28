@@ -382,6 +382,9 @@ h2{
     .about .content .textbox {
         min-width:100%;
         width:100%;
+        text-align:center;
+        font-size: 1em;
+
     }
     .about .content .imgbox{
         width: 300px;
